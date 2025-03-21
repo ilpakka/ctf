@@ -16,10 +16,10 @@ This repository contains writeups of some CTF challenges I have participated in,
 ## Featured Writeups
 
 ### 2025
-| Event | placeholder | placeholder | Writeup |
+| Host | Event | Completion | Writeup |
 |-----------|----------|----------|---------|
-| Google CTF | - | - | placeholder |
-| Cyber Apocalypse CTF | Tales from Eldoria | placeholder | placeholder |
+| Google | Beginner's Quest | placeholder | placeholder |
+| HTB | Cyber Apocalypse CTF - Tales from Eldoria | placeholder | placeholder |
 
 
 ## Contributions
