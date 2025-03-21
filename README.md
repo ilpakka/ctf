@@ -20,6 +20,7 @@ This repository contains writeups of some CTF challenges I have participated in,
 |-----------|----------|----------|---------|
 | Google | Beginner's Quest | placeholder | placeholder |
 | HTB | Cyber Apocalypse CTF - Tales from Eldoria | placeholder | placeholder |
+| THM | Hackfinity Battle | ongoing | placeholder |
 
 
 ## Contributions
