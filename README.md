@@ -7,7 +7,7 @@ This repo serves as a collection of solutions, methodologies, and insights gathe
 This repository contains writeups of some CTF challenges I have participated in, covering categories such as:
 
 - 🔐 **Cryptography**
-- - 🔮 **OSINT**
+- 🔮 **OSINT**
 - 🎭 **Reverse Engineering**
 - 🔩 **Secure Coding**
 - 🐞 **Binary Exploitation**
