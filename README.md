@@ -9,6 +9,7 @@ This repository contains writeups of some CTF challenges I have participated in,
 - 🔐 **Cryptography**
 - 🎭 **Reverse Engineering**
 - 🐞 **Binary Exploitation**
+- 🔮 **OSINT**
 - 🌐 **Web Exploitation**
 - 🕵️‍♂️ **Forensics**
 - 🚀 **Miscellaneous**
