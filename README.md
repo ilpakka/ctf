@@ -18,11 +18,11 @@ This repository contains writeups of some CTF challenges I have participated in,
 ## Featured Writeups
 
 ### 2025
-| Host | Event | Style | Completion | Writeup |
-|-----------|----------|----------|----------|---------|
-| Google | Beginner's Quest | Online | edits | placeholder |
-| HTB | Cyber Apocalypse CTF - Tales from Eldoria | Online | upcoming | placeholder |
-| THM | Hackfinity Battle | Online | edits | placeholder |
+| Host | Event | Style | Team | Completion | Writeup |
+|-----------|----------|----------|----------|----------|---------|
+| Google | Beginner's Quest | Online | Solo | edits | placeholder |
+| HTB | Cyber Apocalypse CTF - Tales from Eldoria | Online | H-T8 | upcoming | placeholder |
+| THM | Hackfinity Battle | Online | Solo | edits | placeholder |
 
 
 ## Contributions
