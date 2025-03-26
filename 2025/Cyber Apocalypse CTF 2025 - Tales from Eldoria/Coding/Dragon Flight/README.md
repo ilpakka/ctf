@@ -109,7 +109,7 @@ if __name__ == "__main__":
 
 ## 4. Results and Flag
 **Flight Path:**<br>
-`8 4 -3 -9 4 -6 -3 5 2 4 U 1 -6 Q 2 6 Q 5 7 U 7 -8`
+`8 4 -3 -9 4 -6 -3 5 2 4 U 1 -6 Q 2 6 Q 5 7 U 7 -8`<br>
 **Journey Distance:**<br>
-`5 7`
+`5 7`<br>
 **FLAG:** `HTB{DR4G0N_FL1GHT_5TR33_e550455d924c7282261887c42bdfdaeb}`
