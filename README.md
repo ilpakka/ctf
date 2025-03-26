@@ -19,11 +19,11 @@ This repository contains writeups of some CTF challenges I have participated in,
 ## Featured Writeups
 
 ### 2025
-| Host | Event | Style | Team | Completion | Writeup |
+| Host | Event | Style | Team | Ranking | Writeup |
 |-----------|----------|----------|----------|----------|---------|
-| Google | Beginner's Quest | Online | Solo | edits | placeholder |
-| HTB | Cyber Apocalypse CTF - Tales from Eldoria | Online | H-T8 | upcoming | placeholder |
-| THM | Hackfinity Battle | Online | Solo | edits | placeholder |
+| Google | Beginner's Quest | Online | Solo | N/A | [Writeup](https://github.com/ilpakka/ctf/tree/main/2025/Google%20CTF%202025%20-%20Beginner's%20Quest) |
+| HTB | Cyber Apocalypse CTF - Tales from Eldoria | Online | H-T8 | Rank: 345th  | [Writeup](https://github.com/ilpakka/ctf/tree/main/2025/Cyber%20Apocalypse%20CTF%202025%20-%20Tales%20from%20Eldoria) |
+| THM | Hackfinity Battle | Online | Solo | N/A | WIP |
 
 
 ## Contributions
