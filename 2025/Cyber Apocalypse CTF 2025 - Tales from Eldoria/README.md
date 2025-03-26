@@ -1,5 +1,5 @@
 # Hack The Box - Cyber Apocalypse CTF 2025: Tales from Eldoria
-![Tales from Eldoria](talesfromeldoria.png)
+![Tales from Eldoria](talesfromeldoria.jpg)
 
 ## Event Details
 | Start Date | End Date | Type | Format | Location | Players | Teams | Challenges | Link |
