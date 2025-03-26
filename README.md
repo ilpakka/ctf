@@ -25,7 +25,3 @@ This repository contains writeups of some CTF challenges I have participated in,
 | HTB | Cyber Apocalypse CTF - Tales from Eldoria | Online | H-T8 | Rank: 345th  | [Writeup](https://github.com/ilpakka/ctf/tree/main/2025/Cyber%20Apocalypse%20CTF%202025%20-%20Tales%20from%20Eldoria) |
 | THM | Hackfinity Battle | Online | Solo | N/A | WIP |
 
-
-## Contributions
-
-If you'd like to contribute additional insights, alternative solutions, or corrections, feel free to submit a pull request or open an issue. Collaboration is always welcome!
