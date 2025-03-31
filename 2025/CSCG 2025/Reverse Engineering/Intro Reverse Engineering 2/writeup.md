@@ -45,7 +45,7 @@ for (local_c = 0; local_c < local_10 + -1; local_c = local_c + 1) {
 What we need now is to create a script that subtracts `0x77`. But what are we actually subtracting `0x77` from?<br>
 <br>
 If we just double click `DAT_00102020` it sends us to the address location. Here we can see the stored password character bytes.<br>
-<br>
+
 ![Values](images/values.png)<br>
 <br>
 
@@ -65,7 +65,7 @@ print("Ascii: " + "".join(chr(n) for n in output)) # careful, let's not space se
 ```
 <br>
 When we run this script we store the decoded password both in hex and ascii formats.<br>
-<br>
+
 ![Script](images/script.png)<br>
 <br>
 We finally got our DAT_00102020 data in plaintext so now we can just see if it really works!<br>
