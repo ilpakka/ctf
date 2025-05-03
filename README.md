@@ -24,5 +24,5 @@ This repository contains writeups of some CTF challenges I have participated in,
 | Google | [Beginner's Quest](https://capturetheflag.withgoogle.com/beginners-quest) | Online | Solo | 23rd (shared) | [Partial](https://github.com/ilpakka/ctf/tree/main/2025/Google%20CTF%202025%20-%20Beginner's%20Quest) |
 | HTB | [Cyber Apocalypse CTF - Tales from Eldoria](https://ctf.hackthebox.com/event/details/cyber-apocalypse-ctf-2025-tales-from-eldoria-2107) | Online | H-T8 | 345th  | [Partial](https://github.com/ilpakka/ctf/tree/main/2025/Cyber%20Apocalypse%20CTF%202025%20-%20Tales%20from%20Eldoria) |
 | THM | [Hackfinity Battle](https://tryhackme.com/room/HackfinityBattle) | Online | Solo | N/A | WIP |
-| CSCG | [CSCG 2025](https://play.cscg.live/) | Online | Solo | 85th (ongoing) | [Partial](https://github.com/ilpakka/ctf/tree/main/2025/CSCG%202025) |
+| CSCG | [CSCG 2025](https://play.cscg.live/) | Online | Solo | 118th | [Partial](https://github.com/ilpakka/ctf/tree/main/2025/CSCG%202025) |
 
