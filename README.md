@@ -22,6 +22,7 @@ This repo serves as a collection of writeups from various CTF competitions eithe
 | THM | [Hackfinity Battle](https://tryhackme.com/room/HackfinityBattle) | Online | Solo | N/A | WIP |
 | CSCG | [CSCG 2025](https://play.cscg.live/) | Online | Solo | 118th | [Partial](https://github.com/ilpakka/ctf/tree/main/2025/CSCG%202025) |
 | SekaiCTF | [Project SEKAI CTF 2025](https://2025.ctf.sekai.team/) | Online | H-T8 | 198 | WIP |
-| TFC CTF 2025 | [TFC CTF 2025](https://ctf.thefewchosen.com/) | Online | H-T8 | 64 | WIP |
-| FortID CTF | [FortID CTF](https://fortid.ctfd.io/) | Online | H-T8 | Ongoing | WIP |
+| TFC CTF| [TFC CTF 2025](https://ctf.thefewchosen.com/) | Online | H-T8 | 64 | WIP |
+| FortID| [FortID CTF](https://fortid.ctfd.io/) | Online | H-T8 | Ongoing | WIP |
+| HTB | [Holmes CTF 2025](https://ctf.hackthebox.com/event/details/holmes-ctf-2025-2536) | Online | H-T8 | 211th | WIP |
 
