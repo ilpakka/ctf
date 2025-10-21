@@ -18,4 +18,4 @@ This repo serves as a collection of writeups from various CTF competitions eithe
 | HTB | [Holmes CTF 2025](https://ctf.hackthebox.com/event/details/holmes-ctf-2025-2536) | Online | H-T8 | 211th | WIP |
 | HTB<br>Insta Advance Oy | [Insta Intruders CTF](https://ctf.hackthebox.com/event/details/insta-intruders-ctf-2721) | Online | H-T8 | **3rd** | WIP |
 | EnigmaXplore | [EnigmaXplore 3.0](https://enigmaxplore.ctfd.io/) | Online | H-T8 | **27th** | WIP |
-
+| QnQSec CTF | [QnQSec CTF 2025](https://ctf.qnqsec.team/) | Online | H-T8 | **37th** | WIP |
