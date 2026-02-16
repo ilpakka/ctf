@@ -18,7 +18,7 @@ More stats: H-T8 @ [CTFTime.org](https://ctftime.org/team/376192)
 | Lilac | [LilacCTF 2026](https://lilacctf2026.xctf.org.cn/) | Online | H-T8 | 41th | - |
 | Paolo | [PascalCTF 2026](https://ctf.pascalctf.it/) | Online | H-T8 | **11th** | - |
 | Pragyan | [Pragyan CTF 2026](https://ctf.prgy.in/) | Online | H-T8 | **6th** | - |
-| PBR | UCLA | [LA CTF 2026](https://lac.tf/) | Online | H-T8 | 34th | - |
+| PBR + UCLA | [LA CTF 2026](https://lac.tf/) | Online | H-T8 | 34th | - |
 | ENOFLAG | [Nullcon Goa HackIM 2026 CTF](https://ctf.nullcon.net/) | Online | H-T8 | 227th | - |
 | DUCKERZ | [DUCKERZ CTF 2026](https://teams.duckerz.ru/) | Online | H-T8 | 213th | - |
 | Bunkyowerstens | [0xFUN CTF 2026](https://ctf.0xfun.org/) | Online | H-T8 | 617th | - |
