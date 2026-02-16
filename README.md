@@ -2,7 +2,28 @@
 
 This repo serves as a collection of writeups from various CTF competitions either by solo participation or by H-T8. Whether you're here to learn, contribute, or simply browse through challenges, I hope you find these writeups useful!
 
+More stats: H-T8 @ [CTFTime.org](https://ctftime.org/team/376192)
+
 ## Writeups
+
+### 2026
+| Host | Event | Style | Team | Ranking | Writeup |
+|-----------|----------|----------|----------|----------|---------|
+| holyc | [Scarlet CTF 2026](https://2026.ctf.rusec.club/) | Online | H-T8 | **26th** | - |
+| UofTCTF | [UofTCTF 2026](https://ctf.uoftctf.org/) | Online | H-T8 | 38th | - |
+| Beavers0 | [New Year CTF 2026](http://ctf-spcs.mf.grsu.by/) | Online | H-T8 | 41th | - |
+| diver_osint | [SWIMMER OSINT CTF](https://swimmer.diverctf.org/) | Online | H-T8 | 340th | - |
+| Knight Squad | [KnightCTF 2026](https://2026.knightctf.com/) | Online | H-T8 | **23rd** | - |
+| 0xL4ugh | [0xL4ugh CTF v5](https://ctf.0xl4ugh.com/) | Online | H-T8 | **18th** | - |
+| Lilac | [LilacCTF 2026](https://lilacctf2026.xctf.org.cn/) | Online | H-T8 | 41th | - |
+| Paolo | [PascalCTF 2026](https://ctf.pascalctf.it/) | Online | H-T8 | **11th** | - |
+| Pragyan | [Pragyan CTF 2026](https://ctf.prgy.in/) | Online | H-T8 | **6th** | - |
+| PBR | UCLA | [LA CTF 2026](https://lac.tf/) | Online | H-T8 | 34th | - |
+| ENOFLAG | [Nullcon Goa HackIM 2026 CTF](https://ctf.nullcon.net/) | Online | H-T8 | 227th | - |
+| DUCKERZ | [DUCKERZ CTF 2026](https://teams.duckerz.ru/) | Online | H-T8 | 213th | - |
+| Bunkyowerstens | [0xFUN CTF 2026](https://ctf.0xfun.org/) | Online | H-T8 | 617th | - |
+| DISOBEY | DISOBEY 2026 | On-site | H-T8 | **5th** | - |
+
 
 ### 2025
 | Host | Event | Style | Team | Ranking | Writeup |
